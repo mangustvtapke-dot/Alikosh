@@ -1,9 +1,17 @@
 {
-    "date": "2025-11-07 16:45:10",
+    "date": "2025-11-07 16:44:08.227418",
     "changed_files": [
         {
+            "status": "M",
+            "file": "hanges.json"
+        },
+        {
+            "status": "M",
+            "file": "check_changes_json.py"
+        },
+        {
             "status": "??",
-            "file": "example.txt"
+            "file": "input.txt"
         }
     ]
 }
